@@ -1,0 +1,12 @@
+mcp
+model-context-protocol
+mcp-server
+nova-by-civai
+civai
+cursor
+claude-desktop
+streamable-http
+remote-mcp
+twitter
+x-com
+social-media

@@ -1,0 +1,20 @@
+{
+  "slug": "twitter-agent",
+  "repo": "twitter-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/twitter-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "twitter",
+    "x-com",
+    "social-media"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/twitter-agent"
+}
